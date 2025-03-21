@@ -1,0 +1,35 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#18181B"/>
+  <rect width="800" height="450" fill="url(#paint0_linear)"/>
+
+  <!-- Chart elements -->
+  <rect x="100" y="190" width="40" height="160" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="150" y="220" width="40" height="130" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="200" y="160" width="40" height="190" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="250" y="140" width="40" height="210" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="300" y="250" width="40" height="100" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="350" y="200" width="40" height="150" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+  <rect x="400" y="180" width="40" height="170" rx="4" fill="#8B5CF6" fill-opacity="0.7"/>
+
+  <!-- Line graph -->
+  <path d="M460 170L510 150L560 180L610 140L660 190L710 160" stroke="#2DD4BF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Decorative circles -->
+  <circle cx="510" cy="150" r="5" fill="#2DD4BF"/>
+  <circle cx="560" cy="180" r="5" fill="#2DD4BF"/>
+  <circle cx="610" cy="140" r="5" fill="#2DD4BF"/>
+  <circle cx="660" cy="190" r="5" fill="#2DD4BF"/>
+
+  <!-- Decorative Header -->
+  <rect x="100" y="80" width="600" height="20" rx="4" fill="#3F3F46"/>
+
+  <!-- Title -->
+  <text x="400" y="380" fill="white" font-family="sans-serif" font-size="24" text-anchor="middle" font-weight="bold">E-Commerce Dashboard</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="400" y1="0" x2="400" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#27272A"/>
+      <stop offset="1" stop-color="#18181B"/>
+    </linearGradient>
+  </defs>
+</svg>

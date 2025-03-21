@@ -1,0 +1,42 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#18181B"/>
+  <rect width="800" height="450" fill="url(#paint0_linear)"/>
+
+  <!-- Header area -->
+  <rect x="100" y="80" width="600" height="50" rx="4" fill="#27272A"/>
+  <rect x="120" y="95" width="120" height="20" rx="4" fill="#4ADE80" fill-opacity="0.7"/>
+
+  <!-- Dashboard layout -->
+  <rect x="100" y="150" width="280" height="200" rx="8" fill="#3F3F46"/>
+  <rect x="120" y="170" width="100" height="10" rx="2" fill="#A855F7" fill-opacity="0.7"/>
+
+  <!-- Financial graph -->
+  <polyline points="120,270 150,250 180,260 210,240 240,230 270,240 300,220 330,260 360,250" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Pie chart -->
+  <path d="M520 200 L520 150 A50 50 0 0 1 567 181 Z" fill="#3B82F6"/>
+  <path d="M520 200 L567 181 A50 50 0 0 1 554 243 Z" fill="#EF4444"/>
+  <path d="M520 200 L554 243 A50 50 0 0 1 486 240 Z" fill="#10B981"/>
+  <path d="M520 200 L486 240 A50 50 0 0 1 470 170 Z" fill="#8B5CF6"/>
+  <path d="M520 200 L470 170 A50 50 0 0 1 520 150 Z" fill="#F59E0B"/>
+
+  <!-- Data boxes -->
+  <rect x="420" y="270" width="80" height="80" rx="8" fill="#4F46E5" fill-opacity="0.3"/>
+  <rect x="510" y="270" width="80" height="80" rx="8" fill="#10B981" fill-opacity="0.3"/>
+  <rect x="600" y="270" width="80" height="80" rx="8" fill="#EF4444" fill-opacity="0.3"/>
+
+  <!-- Box content -->
+  <path d="M460 310 L440 310 L440 300 L460 300 Z" fill="white" fill-opacity="0.8"/>
+  <path d="M550 310 L530 310 L530 300 L550 300 Z" fill="white" fill-opacity="0.8"/>
+  <path d="M640 310 L620 310 L620 300 L640 300 Z" fill="white" fill-opacity="0.8"/>
+
+  <!-- Title -->
+  <text x="400" y="380" fill="white" font-family="sans-serif" font-size="24" text-anchor="middle" font-weight="bold">Financial Management Tool</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="400" y1="0" x2="400" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#27272A"/>
+      <stop offset="1" stop-color="#18181B"/>
+    </linearGradient>
+  </defs>
+</svg>
