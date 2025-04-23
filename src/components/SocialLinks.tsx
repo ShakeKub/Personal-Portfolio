@@ -72,7 +72,7 @@ export default function SocialLinks() {
       </a>
 
       <a
-        href="mailto:john.doe@example.com"
+        href="mailto:shakekubyt@gmail.com"
         className="text-zinc-500 hover:text-white transition-all duration-300 transform hover:scale-110 hover:drop-shadow-[0_0_8px_rgba(255,255,255,0.5)]"
         aria-label="Email"
       >

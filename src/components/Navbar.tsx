@@ -48,7 +48,7 @@ export default function Navbar() {
               Skills
             </a>
             <a
-              href="#contact"
+              href="#mailto:shakekubyt@gmail.com"
               className="text-zinc-400 hover:text-white transition-colors"
               onClick={(e) => scrollToSection(e, 'contact')}
             >
